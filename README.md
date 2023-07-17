@@ -17,5 +17,5 @@
 |  CaracterísticaS |  Información |
 | :------------: | :------------: |
 |**Nombre**  |  **Practica 7.** *Especificación en base a la hora* |
-| **Descripción**  |  La aplicación "Hora y Día" aprovecha las capacidades de actualización en tiempo real de Wear OS, lo que significa que la hora y el día se actualizarán automáticamente a medida que pase el tiempo. |
+| **Descripción**  |  En resumen, la aplicación "Saludo Hora" para Wear OS es una aplicación interactiva que genera saludos personalizados basados ​​en la hora actual. Con su diseño atractivo y su capacidad para adaptarse a diferentes momentos del día, brinda a los usuarios una experiencia amigable y agradable en su reloj inteligente. |
 |  **echa de Carga** | 14/06/23  |
