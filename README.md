@@ -14,8 +14,8 @@
 
 &nbsp;
 &nbsp;
-|  Característica |  Información |
+|  CaracterísticaS |  Información |
 | :------------: | :------------: |
-| Nombre  |  Practica 7 |
-| Descripción  |  Especificación en base a la hora |
-|  Fecha de Carga | 14/06/23  |
+|**Nombre**  |  **Practica 7.** *Especificación en base a la hora* |
+| **Descripción**  |  La aplicación "Hora y Día" aprovecha las capacidades de actualización en tiempo real de Wear OS, lo que significa que la hora y el día se actualizarán automáticamente a medida que pase el tiempo. |
+|  **echa de Carga** | 14/06/23  |
