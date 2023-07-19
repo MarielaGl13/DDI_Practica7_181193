@@ -19,3 +19,16 @@
 |**Nombre**  |  **Practica 7.** *Especificación en base a la hora* |
 | **Descripción**  |  En resumen, la aplicación "Saludo Hora" para Wear OS es una aplicación interactiva que genera saludos personalizados basados ​​en la hora actual. Con su diseño atractivo y su capacidad para adaptarse a diferentes momentos del día, brinda a los usuarios una experiencia amigable y agradable en su reloj inteligente. |
 |  **echa de Carga** | 14/06/23  |
+
+&nbsp;
+&nbsp;
+
+&nbsp;
+&nbsp;
+
+<br>
+<br>
+<br>
+<br>
+
+[![Imagen1-2.jpg](https://i.postimg.cc/x1swjyVj/Imagen1-2.jpg)](https://postimg.cc/0zwWcSNh)
